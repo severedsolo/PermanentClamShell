@@ -1,11 +1,11 @@
 {
-    "NAME"     : "Permanent Clamshells",
-    "URL"      : "https://github.com/severedsolo/MonthlyBudgets/blob/master/bin/Release/GameData/MonthlyBudgets/MonthlyBudgets.version",
-    "DOWNLOAD" : "https://github.com/severedsolo/MonthlyBudgets/releases",
+    "NAME"     : "Permanent Clamshell",
+    "URL"      : "https://github.com/severedsolo/PermanentClamShell/blob/master/PermanentClamShell/GameData/PermanentClamshell/PermanentClamShell.version
+    "DOWNLOAD" : "https://github.com/severedsolo/PermanentClamshell/releases",
     "GITHUB" :
     {
         "USERNAME" : "severedsolo",
-        "REPOSITORY" : "MonthlyBudgets"
+        "REPOSITORY" : "PermanentClamshell"
     },
     "VERSION" :
     {
